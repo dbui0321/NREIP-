@@ -1,2 +1,2 @@
 # NREIP-
-code that will calculate the fractal dimension from turbulent images! 
+Code that will calculate the fractal dimension from turbulent images! 
