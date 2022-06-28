@@ -1,2 +1,2 @@
 # NREIP-
-This project is meant to calculate the fractal dimension from images that have turbulence 
+code that will calculate the fractal dimension from turbulent images! 
