@@ -1,4 +1,7 @@
 % Importing the image and setting parameters: axis, colormap, etc. 
+% Matlab uses a built-in function which uses the box-counting method to calculate the fractal dimension. 
+% Caculating a fractal dimension requires a image to be imported. 
+
 I = imread('C:\Users\buida\OneDrive\Desktop\NREIP\Images\Img10.jpg')
 imshow(I)
 image(I)
